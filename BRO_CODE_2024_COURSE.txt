@@ -1,4 +1,0 @@
-This is bro code's 2024 python course
-
-29 NOV 2024 - START FROM CHAP 2 VARIABLES
-https://www.youtube.com/watch?v=ix9cRaBkVe0
